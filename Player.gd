@@ -7,6 +7,7 @@ var speed = 10
 var max_speed = 100
 var turn_sensitivity = 2
 var rot_sensitivity = 20
+var needed_a_change = 0
 
 var turning = 0
 var pitching = 0
